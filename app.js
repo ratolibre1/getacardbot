@@ -83,9 +83,9 @@ funtion bot(){
 	
 setInterval(function() {
   try {
-    run();
+    bot();
   }
   catch (e) {
-    console.log(e);
+    //console.log(e);
   }
 }, 600000);
