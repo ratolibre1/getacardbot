@@ -1,1 +1,1 @@
-"# getacardbot" 
+"Get a Card Bot" es un bot para Twitter (https://twitter.com/getacardbot) que twittea cada hora (desde Feb 2017) naipes aleatorios con gráficos hechos con emojis. El código fue escrito en JS y montado sobre Heroku para lanzarse periódicamente.
